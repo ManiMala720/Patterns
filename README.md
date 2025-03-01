@@ -1,2 +1,2 @@
 # Patterns
-This repository contains solution to various pattern problems in java
+This repository contains solution to various pattern problems using java
